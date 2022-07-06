@@ -1,2 +1,2 @@
-this is to test git usage
-bug 1 is added
+this is to test git usage.
+bug 1 is added.
