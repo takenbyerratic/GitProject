@@ -2,4 +2,7 @@
 FINAL:This is to test git usage...
 FINAL:Bug 1 is added...
 Edited
+FINAL:Bug 1 is added...******
+Final
+
 
